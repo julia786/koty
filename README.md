@@ -1,3 +1,3 @@
-<div>
+<div=logo>
 koty
-<div
+<div>
